@@ -218,3 +218,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# =====================================
+# AeroVision AI - Project Files
+# =====================================
+
+# PyCharm
+.idea/
+
+# Local AI models
+models/
+
+# Model weights
+*.safetensors
+*.pt
+*.pth
+
+# Test images and videos
+samples/
+
+# Local environments
+.venv/
+venv/
+
+# Sensitive files
+.env.*
+!.env.example

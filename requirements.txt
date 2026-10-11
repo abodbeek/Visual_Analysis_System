@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+numpy
+opencv-python
+huggingface-hub
+safetensors
